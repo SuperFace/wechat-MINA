@@ -16,3 +16,6 @@ http://www.diycode.cc/topics/311
 全球首个微信应用号开发教程第二弹！
 http://www.diycode.cc/topics/312
 
+第三弹！全球首个微信应用号开发教程！
+http://www.diycode.cc/topics/316
+
