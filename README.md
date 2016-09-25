@@ -1,6 +1,7 @@
 # wechat-MINA
 
 #应对微信开发者工具0.9自动升级补丁：
+(路径：package.nw\app\dist)
 自动升级后多出“stores”目录，重启工具后，不能新建项目，总是报错：{"baseresponse":{"errcode": 40013, errmsg: "invalid appid"}}，
 解决办法：将旧的“stroes”目录的所有文件，替换到自动升级后多出的"stores"目录中，重启工具，问题解决！
 
