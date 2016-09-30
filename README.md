@@ -23,6 +23,9 @@ http://www.diycode.cc/topics/316
 第四弹！全球首个微信应用号开发教程！
 http://www.diycode.cc/topics/325
 
+全球首个微信应用号开发教程！第五弹，主要讲【微信小程序分组开发与左滑功能实现】
+http://www.diycode.cc/topics/328
+
 全球首个微信应用号开发教程第六弹：微信小程序拍照收纳开发以及删除名片等
 http://www.diycode.cc/topics/332
 
