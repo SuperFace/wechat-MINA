@@ -1,4 +1,9 @@
 # wechat-MINA
+
+# 好消息： 官网最新微信开发者工具0.9.092300版本，直接能登录开发！（下载地址）
+https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html
+
+
 #注意：官网最新微信开发者工具0.9版本已经修复"stroes" -> "stores" 问题，同时也使破解文件作废！
 要想尝试微信小程序开发请自行下载0.9.092100版本，然后按照.docx文档安装破解。
 祝成功~~~~~~
