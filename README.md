@@ -1,6 +1,6 @@
 # wechat-MINA
 
-# 好消息： 官网最新微信开发者工具0.9.092300版本，直接能登录开发！（下载地址）
+# 好消息： 官网最新微信开发者工具0.9.092300版本，不用破解，直接能登录开发！（下载地址）
 https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html
 
 
