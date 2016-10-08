@@ -32,3 +32,6 @@ http://www.diycode.cc/topics/332
 微信小程序 (应用号) 开发问答第一弹！
 http://www.diycode.cc/topics/329
 
+社区：
+http://www.diycode.cc/search?q=%E5%BE%AE%E4%BF%A1%E5%BA%94%E7%94%A8%E5%8F%B7
+http://www.diycode.cc/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F
